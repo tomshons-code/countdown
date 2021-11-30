@@ -43,5 +43,11 @@ header {
     border-radius: 100%;
 }
 
+audio{
+    dispaly: flex;
+    flex-direction: row;
+    justify-content: center;
+    opacity: 0.6;
+}
 
 
