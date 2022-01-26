@@ -10,7 +10,7 @@ var counterHours = document.getElementById('hours');
 var counterMinutes = document.getElementById('minutes');
 var counterSeconds = document.getElementById('seconds');
 
-var christmas = new Date('December 24, 2021 00:00:00');
+var christmas = new Date('December 24, 2022 00:00:00');
 
 
 function updateTimer(christmas) {
